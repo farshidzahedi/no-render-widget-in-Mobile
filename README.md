@@ -1,5 +1,6 @@
 # no-render-widget-in-Mobile
 جلوگیری از رندر المان ها در حالت موبایل 
+
 در فایل Fuction.php این کد را اضافه کنید
 
 
