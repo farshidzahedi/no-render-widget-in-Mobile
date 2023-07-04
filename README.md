@@ -1,6 +1,8 @@
 # no-render-widget-in-Mobile
 جلوگیری از رندر المان ها در حالت موبایل 
 در فایل Fuction.php این کد را اضافه کنید
+
+
 //php tag
 
 function hide_content_on_mobile($content) {
